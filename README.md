@@ -31,16 +31,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=amirulnubitel&theme=oldie)](https://github.com/amirulnubitel)
 
 
-<p align="center">
-   <table>
-        <p align="center">
-                <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirulnubitel&theme=default" />
-        </p>
-        <p align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=amirulnubitel&theme=city_light&hide_border=false&include_all_commits=false&count_private=false"/>
-        </p>
-   </table>
-</p>
+
 
 
 <a href="https://github.com/amirulnubitel"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amirulnubitel&theme=github-compact&point=68929b&area=true&hide_border=true" /></a>
