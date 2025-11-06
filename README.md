@@ -5,16 +5,6 @@
         </samp>
 </h1>
 
-<h2 align="center">
-        <!-- Organisation  -->
-        <samp>
-                <br>
-                「  A hardworking and detail-oriented person who is ready to join and available to start working immediately. 」
-                <br>
-                <br>
-        </samp>
-</h2>
-
 <h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g" width='30'/>&nbsp;I have technical experience and interested in: </h2>
 
 - Web Developer
@@ -28,10 +18,6 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=amirulnubitel&theme=oldie)](https://github.com/amirulnubitel)
-
-
-
 
 
 <a href="https://github.com/amirulnubitel"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amirulnubitel&theme=github-compact&point=68929b&area=true&hide_border=true" /></a>
